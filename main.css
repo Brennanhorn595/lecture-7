@@ -1,0 +1,18 @@
+main {
+float: left;
+width: 50%;
+background-color: turquoise; 
+}
+nav {
+    float: left;
+    width: 25%;
+    background-color: cyan;
+}
+aside {
+    float: left;
+    width: 25%;
+    background-color: cadetblue;
+}
+.clear{
+    clear: left
+}
